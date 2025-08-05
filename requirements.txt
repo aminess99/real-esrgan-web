@@ -1,0 +1,10 @@
+basicsr>=1.4.2
+gfpgan>=1.3.5
+facexlib>=0.2.5
+realesrgan>=0.3.0
+opencv-python
+numpy
+Pillow
+torch
+torchvision
+requests
